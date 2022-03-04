@@ -1,0 +1,16 @@
+@media screen and (max-width: 500px){
+    main{
+        width: 95%;
+        padding: 1.5em;
+        padding-top: .5em;
+    }
+    main span{
+        font-size: .6em;
+    }
+    main p{
+        font-size: 18px;
+    }
+    main .icon-conteiner{
+        transform: translateX(-50%) scale(.8);
+    }
+}
